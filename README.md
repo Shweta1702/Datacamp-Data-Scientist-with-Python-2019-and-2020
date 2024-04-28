@@ -1,6 +1,5 @@
 # Data Scientist with Python Datacamp
-This is about learning data scientist with Python 2019 and some new updated courses in DataCamp. All the answers given written by myself.
-
+This is about learning data scientist with Python 2019 and some new updated courses in DataCamp.
 # All notes, datasets and codings are stored in this repositories
 
 Datacamp website: https://www.datacamp.com/home
@@ -33,8 +32,6 @@ Datacamp website: https://www.datacamp.com/home
   # Useful?
   Please click Fork to save it.
   
-  # Goodluck!
 
 
 
-© 2019 Fatini Nadhirah. All right reserved
